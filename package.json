@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Funes Darío",
+	"description": "This is a package for learning how to create and use NPM packages.",
+	"keywords": ["freecodecamp", "backend", "nodejs"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
